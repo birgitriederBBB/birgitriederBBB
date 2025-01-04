@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hi there! I'm Birgit Rieer, an enthusiastic developer and educator from Switzerland 🇨🇭.  
+- 🌱 I’m passionate about teaching programming and making complex topics accessible to learners.  
+- 💻 My current focus: Developing applications with C# and SQL databases.  
+- 🌟 Fun fact: I enjoy playing Doppelkopf and experimenting with algorithms!  
 <!--
 **birgitriederBBB/birgitriederBBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
